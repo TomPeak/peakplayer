@@ -4,8 +4,9 @@
 				"genre": "Radio",
 				"stations": [{
 					"id":234,
-					"name": "Auto",
-					"url": "http://65.109.90.218:7170/autodj"
+					"name": "RUNTIN",
+					"url": "http://65.109.90.218:7170/autodj",
+					"folder" : "host/runtin/"
 				}, {
 					"id":123,
 					"name": "Ragge",
