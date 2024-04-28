@@ -1,11 +1,11 @@
 [{
 				
 				"id":"123",
-				"genre": "chill",
+				"genre": "Radio",
 				"stations": [{
 					"id":234,
-					"name": "Groove Salat",
-					"url": "https://ice6.somafm.com/groovesalad-256-mp3"
+					"name": "Auto",
+					"url": "http://65.109.90.218:7170/autodj"
 				}, {
 					"id":123,
 					"name": "Ragge",
@@ -35,19 +35,27 @@
 			},{
 				
 				"id":"123",
-				"genre": "pop",
+				"genre": "somafm",
 				"stations": [{
 					"id":234,
 					"name": "Groove Salat",
 					"url": "https://ice6.somafm.com/groovesalad-256-mp3"
 				}, {
 					"id":123,
-					"name": "Ragge",
-					"url": "https://ice4.somafm.com/reggae-256-mp3"
+					"name": "Synphaera",
+					"url": "https://ice4.somafm.com/synphaera-256-mp3"
 				}, {
 					"id":123,
-					"name": "Groove Salat",
-					"url": "https://ice6.somafm.com/groovesalad-256-mp3"
+					"name": "Dark Zone",
+					"url": "https://ice6.somafm.com/darkzone-256-mp3"
+				}, {
+					"id":123,
+					"name": "Metal Detector",
+					"url": "https://ice2.somafm.com/metal-128-mp3"
+				}, {
+					"id":123,
+					"name": "Seven Inch Soul",
+					"url": "https://ice2.somafm.com/7soul-128-mp3"
 				}]
 			},{
 				
